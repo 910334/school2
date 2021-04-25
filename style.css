@@ -1,0 +1,28 @@
+.menu{
+    list-style: none;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    color:grey;
+    padding-top: 5px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+.links:hover{
+    background-color:azure;
+}
+
+body{
+ text-align: center; 
+}
+
+#kindree{
+    width: 1000px;
+    height: 600px;
+}
